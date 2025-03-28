@@ -2,6 +2,9 @@
 
 Материалы, которые мы использовали в докладе о генерации Compose кода с помощью AI.
 
+- [Video](https://youtu.be/ofzoqjZ4_WU?si=80AjeCuhE9SJnc1C)
+- [Slides](https://docs.google.com/presentation/d/1dCvjUvnFeHUtAtrQQSGBp-DFV1jPHQvb4lx8hsjyPJ0)
+
 ## Про промпты
 
 - В этих промптах очень много специфики нашего проекта. Воспринимайте просто как пример.
